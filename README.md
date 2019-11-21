@@ -2,7 +2,8 @@
 This is the second group project for Vanderbilt's Coding Bootcamp. 
 
 # Links
-https://github.com/MMvogler/Project-2
+https://github.com/MMvogler/Project-2  
+
 https://project2-110519.herokuapp.com/ 
 
 
